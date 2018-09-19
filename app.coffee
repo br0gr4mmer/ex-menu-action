@@ -69,6 +69,7 @@ menuSimple_stepper_textNum_prog = new GrabTextLayer
 	parent: menuSimple_stepper_textNum
 	fontSize: 20
 	fontFamily: 'Sanomat-Medium'
+	textAlign: 'center'
 	color: "#000000"
 	text: 1
 menuSimple_stepper_textNum_content.destroy()
