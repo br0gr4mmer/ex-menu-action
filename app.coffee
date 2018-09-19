@@ -41,7 +41,7 @@ menuSimple_bg.destroy()
 menuSimple_bg_prog.states =
 	added: y: 180
 menuSimple_btn_add.states =
-	added: scale: 1.05
+	added: scale: 1.1
 	hidden: opacity: 0
 
 menuSimple_btn_view.states = hidden: opacity: 0
