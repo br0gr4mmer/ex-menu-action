@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Sanomat-Regular';
+	src: url('fonts/Sanomat-Grab-Web-Regular.woff2') format('woff2'),
+		 url('fonts/Sanomat-Grab-Web-Regular.woff') format('woff');
+	}
+	
+@font-face {
+	font-family: 'Sanomat-Medium';
+	src: url('fonts/Sanomat-Grab-Web-Medium.woff2') format('woff2'),
+			url('fonts/Sanomat-Grab-Web-Medium.woff') format('woff');
+	}

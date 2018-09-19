@@ -1,0 +1,421 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["ex-menu-v05@2x/layers.json.js"] = [
+	{
+		"objectId": "4AF7A973-B03F-4013-B938-3BCB5BEA3931",
+		"kind": "artboard",
+		"name": "app",
+		"originalName": "app",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 5,
+			"y": 563,
+			"width": 375,
+			"height": 667
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(0, 0, 0, 1)",
+		"children": [
+			{
+				"objectId": "6ADB22CA-05BA-4710-BE8E-70C66451AA70",
+				"kind": "group",
+				"name": "menuSimple",
+				"originalName": "menuSimple",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -4,
+					"y": 402,
+					"width": 383,
+					"height": 271
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "BD3DC222-F138-45B5-B533-03A4F76BFE36",
+						"kind": "group",
+						"name": "menuSimple_content",
+						"originalName": "menuSimple_content",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 16,
+							"y": 425,
+							"width": 343,
+							"height": 151
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-menuSimple_content-qkqzremy.png",
+							"frame": {
+								"x": 16,
+								"y": 425,
+								"width": 343,
+								"height": 151
+							}
+						},
+						"children": [
+							{
+								"objectId": "EF0C5E5E-1D80-48B4-B2EC-FBD70CF895F1",
+								"kind": "group",
+								"name": "menuSimple_stepper",
+								"originalName": "menuSimple_stepper",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 115,
+									"y": 536,
+									"width": 144,
+									"height": 40
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "81B3D76C-7E51-4077-A0CA-3578319C1527",
+										"kind": "group",
+										"name": "menuSimple_stepper_btn_inc",
+										"originalName": "menuSimple_stepper_btn_inc",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 219,
+											"y": 536,
+											"width": 40,
+											"height": 40
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-menuSimple_stepper_btn_inc-odfcm0q3.png",
+											"frame": {
+												"x": 219,
+												"y": 536,
+												"width": 40,
+												"height": 40
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "227A12B5-5546-4564-983A-23732F3EFF0F",
+										"kind": "group",
+										"name": "menuSimple_stepper_textNum",
+										"originalName": "menuSimple_stepper_textNum",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 183,
+											"y": 549,
+											"width": 6,
+											"height": 14
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"children": [
+											{
+												"objectId": "0229BFC2-B419-4172-8B2C-9E195967DCD5",
+												"kind": "text",
+												"name": "menuSimple_stepper_textNum_content",
+												"originalName": "menuSimple_stepper_textNum_content",
+												"maskFrame": null,
+												"layerFrame": {
+													"x": 183,
+													"y": 549,
+													"width": 6,
+													"height": 14
+												},
+												"visible": true,
+												"metadata": {
+													"opacity": 1,
+													"string": "1",
+													"css": [
+														"/* 1: */",
+														"font-family: SanomatGrabApp-Medium;",
+														"font-size: 20px;",
+														"color: #000000;"
+													]
+												},
+												"image": {
+													"path": "images/Layer-menuSimple_stepper_textNum_content-mdiyoujg.png",
+													"frame": {
+														"x": 183,
+														"y": 549,
+														"width": 6,
+														"height": 14
+													}
+												},
+												"children": []
+											}
+										]
+									},
+									{
+										"objectId": "E2506F16-CE77-48CF-BDFC-02D3975239A8",
+										"kind": "group",
+										"name": "menuSimple_stepper_btn_dec",
+										"originalName": "menuSimple_stepper_btn_dec",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 115,
+											"y": 536,
+											"width": 40,
+											"height": 40
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-menuSimple_stepper_btn_dec-rti1mdzg.png",
+											"frame": {
+												"x": 115,
+												"y": 536,
+												"width": 40,
+												"height": 40
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"objectId": "A74CE390-8488-4E84-9CE5-B56018F1CD50",
+						"kind": "group",
+						"name": "menuSimple_btn_view",
+						"originalName": "menuSimple_btn_view",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 16,
+							"y": 601,
+							"width": 343,
+							"height": 48
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-menuSimple_btn_view-qtc0q0uz.png",
+							"frame": {
+								"x": 16,
+								"y": 601,
+								"width": 343,
+								"height": 48
+							}
+						},
+						"children": [
+							{
+								"objectId": "2FAE6794-D75A-4E0C-B50D-A8435C18A787",
+								"kind": "text",
+								"name": "menuSimple_btn_view_textBasket",
+								"originalName": "menuSimple_btn_view_textBasket",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 36,
+									"y": 618,
+									"width": 99,
+									"height": 13
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1,
+									"string": "View Basket",
+									"css": [
+										"/* View Basket: */",
+										"font-family: SanomatGrabApp-Bold;",
+										"font-size: 16px;",
+										"color: #FFFFFF;",
+										"letter-spacing: 0.5px;",
+										"line-height: 16px;"
+									]
+								},
+								"image": {
+									"path": "images/Layer-menuSimple_btn_view_textBasket-mkzbrty3.png",
+									"frame": {
+										"x": 36,
+										"y": 618,
+										"width": 99,
+										"height": 13
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "D24F337E-2DC9-4F8B-B5B1-5B68EDD54633",
+								"kind": "group",
+								"name": "menuSimple_btn_view_textItem",
+								"originalName": "menuSimple_btn_view_textItem",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 159,
+									"y": 618,
+									"width": 43,
+									"height": 13
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "1924DC0F-6A87-411D-802B-A844A01F4A25",
+										"kind": "text",
+										"name": "menuSimple_btn_view_textItem_content",
+										"originalName": "menuSimple_btn_view_textItem_content",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 159,
+											"y": 618,
+											"width": 43,
+											"height": 13
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1,
+											"string": "1 Item",
+											"css": [
+												"/* 1 Item: */",
+												"font-family: SanomatGrabApp-Regular;",
+												"font-size: 16px;",
+												"color: #FFFFFF;",
+												"letter-spacing: 0.5px;",
+												"line-height: 16px;"
+											]
+										},
+										"image": {
+											"path": "images/Layer-menuSimple_btn_view_textItem_content-mtkynerd.png",
+											"frame": {
+												"x": 159,
+												"y": 618,
+												"width": 43,
+												"height": 13
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "E89F91D7-2FFD-432E-8DEE-46EFDF19D37C",
+								"kind": "group",
+								"name": "menuSimple_btn_view_textPrice",
+								"originalName": "menuSimple_btn_view_textPrice",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 284,
+									"y": 619,
+									"width": 56,
+									"height": 16
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "497697F0-DC3A-43BE-8E76-7E21A77DF19C",
+										"kind": "text",
+										"name": "menuSimple_btn_view_textPrice_content",
+										"originalName": "menuSimple_btn_view_textPrice_content",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 284,
+											"y": 619,
+											"width": 56,
+											"height": 16
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1,
+											"string": "Rp35rb",
+											"css": [
+												"/* Rp35rb: */",
+												"font-family: SanomatGrabApp-Bold;",
+												"font-size: 16px;",
+												"color: #FFFFFF;",
+												"text-align: right;"
+											]
+										},
+										"image": {
+											"path": "images/Layer-menuSimple_btn_view_textPrice_content-ndk3njk3.png",
+											"frame": {
+												"x": 284,
+												"y": 619,
+												"width": 56,
+												"height": 16
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"objectId": "9A206A33-B46A-4FB9-B1B1-827F41E4C53A",
+						"kind": "group",
+						"name": "menuSimple_btn_add",
+						"originalName": "menuSimple_btn_add",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 16,
+							"y": 601,
+							"width": 343,
+							"height": 48
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-menuSimple_btn_add-oueymdzb.png",
+							"frame": {
+								"x": 16,
+								"y": 601,
+								"width": 343,
+								"height": 48
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "F004BE42-2F19-4D9F-854B-B03E169E8E24",
+						"kind": "group",
+						"name": "menuSimple_bg",
+						"originalName": "menuSimple_bg",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": -4,
+							"y": 402,
+							"width": 383,
+							"height": 271
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-menuSimple_bg-rjawnejf.png",
+							"frame": {
+								"x": -4,
+								"y": 402,
+								"width": 383,
+								"height": 271
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]
